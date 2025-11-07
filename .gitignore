@@ -23,3 +23,4 @@ firebase.js
 *.njsproj
 *.sln
 *.sw?
+.env
